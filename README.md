@@ -16,3 +16,5 @@ Projeto trata-se de uma biblioteca onde você pudesse guardar imagens de séries
 - Caso queira remover o item é só clicar no botão "Remover".
 
 ![Preview](./preview.png)
+
+>[🔗 Clique aqui para acessar](luancontreiras.github.io/GameFlix/)
