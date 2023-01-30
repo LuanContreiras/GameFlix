@@ -14,3 +14,5 @@ Projeto trata-se de uma biblioteca onde você pudesse guardar imagens de séries
 - Escreva o nome do jogo e cole URL da imagem em seus respectivos inputs.
 - Clique em adicionar.
 - Caso queira remover o item é só clicar no botão "Remover".
+
+![Preview](./preview.png)
