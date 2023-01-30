@@ -17,4 +17,4 @@ Projeto trata-se de uma biblioteca onde você pudesse guardar imagens de séries
 
 ![Preview](./preview.png)
 
->[🔗 Clique aqui para acessar](luancontreiras.github.io/GameFlix/)
+>[🔗 Clique aqui para acessar](https://luancontreiras.github.io/GameFlix/)
